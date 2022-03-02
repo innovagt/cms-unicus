@@ -95,6 +95,15 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::project.project"
+    },
+    "video_vimeo": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "text",
+      "required": false
     }
   }
 }
