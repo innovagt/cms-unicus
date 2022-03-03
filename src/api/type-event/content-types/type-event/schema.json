@@ -4,10 +4,11 @@
   "info": {
     "singularName": "type-event",
     "pluralName": "type-events",
-    "displayName": "type_event"
+    "displayName": "Tipo de eventos",
+    "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {
     "i18n": {
