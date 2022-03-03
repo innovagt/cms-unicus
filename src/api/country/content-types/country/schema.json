@@ -23,7 +23,6 @@
         }
       },
       "type": "string",
-      "unique": true,
       "required": true
     },
     "projects": {
