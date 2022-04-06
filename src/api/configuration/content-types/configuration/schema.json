@@ -60,7 +60,7 @@
         }
       },
       "type": "string",
-      "default": "tel:(504) 2235-6406",
+      "default": "(504) 2235-6406",
       "required": false
     },
     "descHome": {
