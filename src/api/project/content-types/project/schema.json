@@ -114,6 +114,16 @@
       "type": "boolean",
       "default": false,
       "required": true
+    },
+    "position": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "float",
+      "default": 999,
+      "required": true
     }
   }
 }
